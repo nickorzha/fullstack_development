@@ -1,3 +1,3 @@
 # full-stack-development
 
-<img src = "full_stack.png"/>
+<img src = "images/full_stack.png"/>
