@@ -1,4 +1,4 @@
-## css <img src = "https://www.flaticon.com/svg/static/icons/svg/888/888847.svg" width = 30px/>
+## css <img src = "https://www.flaticon.com/svg/static/icons/svg/888/888847.svg" width = 50px height = 50px align = "right"/>
 
 Let's begin with basic understanding of css and answer some unwanted questions.
 
