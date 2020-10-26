@@ -31,7 +31,7 @@ head tag </> contains meta data of the page like document title, styles, links, 
 body tag </> contains the front-end data displayed onto our webpage.Example, 
 
 - paragraph p tag </> 
-- heading tags h1-h6 </> etc...
+- <a herf = "html_headings.html" >heading tags h1-h6 </></a> etc...
 
 ##### What are paired and unpaired tags?
 
