@@ -23,17 +23,17 @@ For our first structure check out <a href = "html_structure.html">html_structure
 ##### What is a head tag?
 
 `<head>` tag contains meta data of the page like document title, styles, links, scripts etc.
-- The `<meta>` element is used to provide meta data to search engines, technical information about the webpage etc.
-- The `<title>` element is used to set the title of the html webpage.	
+- The <a href = "html_structure.html">`<meta>`</a> element is used to provide meta data to search engines, technical information about the webpage etc.
+- The <a href = "html_structure.html">`<title>`</a> element is used to set the title of the html webpage.	
 
 ##### What is a body tag?
 
 `<body>` tag contains the front-end data displayed onto our webpage.Example, 
 
-- <a href = "html_paragraph.html">paragraph ` <p> `</a> tag
+- <a href = "html_paragraph.html">paragraph </a>  `<p>`tag
 - <a href = "html_headings.html">heading </a> `<h1>-<h6>` tags
-- <a href = "html_paragraph.html">preformatted tag `<pre>`</a>
-- <a href = "html_embed_image"> image tag </a>`<img />`
+- <a href = "html_paragraph.html">preformatted </a>`<pre>` tag
+- <a href = "html_embed_image.html"> image </a> `<img />`  tag
 
 
 ##### What are paired and unpaired tags?
