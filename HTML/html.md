@@ -28,13 +28,23 @@ For our first structure check out <a href = "html_structure.html">html_structure
 
 ##### What is a body tag?
 
-`<body>` tag </> contains the front-end data displayed onto our webpage.Example, 
+`<body>` tag contains the front-end data displayed onto our webpage.Example, 
 
-- <a href = "html_paragraph.html">paragraph ` <p> `tag</a> 
+- <a href = "html_paragraph.html">paragraph ` <p> `</a> tag
 - <a href = "html_headings.html">heading </a> `<h1>-<h6>` tags
 - <a href = "html_paragraph.html">preformatted tag `<pre>`</a>
+- <a href = "html_embed_image"> image tag </a>`<img />`
+
 
 ##### What are paired and unpaired tags?
+
+Paired tags have to be closed with a pairing tag, like `<p>` and `</p>`, `<body>` and `</body>`.<br />
+Unpaired tags are those which didn't require to be closed with a pairing tag, like `<img />`, `<br />` etc.
+
+##### What is an `<img />` tag?
+
+`<img />` tag is used to embed an image into your webpage using its source.<br />
+&emsp;It contains parameters like `src`, `alt`, `target` etc.
 
 to be continued...
  
