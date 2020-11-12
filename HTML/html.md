@@ -1,8 +1,8 @@
 ## HTML
 
-
 <img src = "html5.jpeg" width = 100px height = 70px align = "right"/>
 
+<p><a href="html_facts.md">HTML - Facts</a></p>
 
 Let's begin with basic understanding of HTML and answer some unwanted questions.
 
@@ -33,7 +33,7 @@ For our first structure check out <a href = "html_structure.html">html_structure
 - <a href = "html_paragraph.html">paragraph </a>  `<p>`tag
 - <a href = "html_headings.html">heading </a> `<h1>-<h6>` tags
 - <a href = "html_paragraph.html">preformatted </a>`<pre>` tag
-- <a href = "html_embed_image.html"> image </a> `<img />`  tag
+- <a href = "html_embed_image.html"> image </a> `<img />` tag
 
 
 ##### What are paired and unpaired tags?
@@ -48,3 +48,33 @@ Unpaired tags are those which didn't require to be closed with a pairing tag, li
 
 to be continued...
  
+##### What is CSS?
+
+It stands for <a href="/CSS/css.md">Cascading Style Sheets</a>. 
+
+CSS is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.
+
+
+##### What is inline CSS?
+
+Inline CSS is defined by the <a href = "html_inline_css.html">`style`</a> attribute used in the relevant element / tag. The style attribute can contain any CSS property.
+
+Properties of Style attribute:
+ - width
+ - height
+ - color
+ - background-color
+ - margin
+ - border
+ - padding
+ - etc.
+
+
+##### What is Internal CSS?
+
+<a href = "html_internal_css.html">Internal CSS</a> is written as simple CSS in `<style>` tag under `<head>` element.
+
+##### What is External CSS?
+
+Refer to this <a href="/CSS/css.md">CSS</a>. This is all about External CSS.
+
