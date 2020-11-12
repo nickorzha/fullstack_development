@@ -1,0 +1,2 @@
+- HTML by default adds 8px margin in body tag.
+- When you inspect a page, the red strip is the margin, the blue strip is the content and green strip is padding.
