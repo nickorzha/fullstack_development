@@ -4,15 +4,24 @@
     <title>Register</title>
   </head>
   <body>
-    <form action="">
-      First Name : <input type="text" /><br />
-      Last Name : <input type="text" /><br />
-      Email : <input type="email" required /><br />
-      Birthday : <input type="date" /><br />
-      Gender : <input type="radio" name="Gender" /> Male
-      <input type="radio" name="Gender" /> Female
-      <input type="radio" name="Gender" /> Other<br />
-      Pets : <input type="checkbox" /> Cats <input type="checkbox" /> Dogs
+    <header>Register</header>
+    <form action="" method="POST">
+      First Name : <input type="text" name="firstname" /><br /><br />
+      Last Name : <input type="text" name="lastname" /><br />
+      <br />
+      Email : <input type="email" name="email" required /><br /><br />
+      Password : <input type="password" name="password" min="5" /> <br /><br />
+      Birthday : <input type="date" name="birthday" /><br />
+      <br />
+      Gender : <input type="radio" name="Gender" value="Male" /> Male
+      <input type="radio" name="Gender" value="Female" /> Female
+      <input type="radio" name="Gender" value="Others" /> Other<br /><br />
+      Pets : <input type="checkbox" name="cat" /> Cats
+      <input type="checkbox" name="dog" /> Dogs <br /><br />Car :
+      <select name="cars">
+        <option value="Volvo" name="volvo">Volvo</option>
+        <option value="Audi" name="volvo">Audi</option></select
+      ><br /><br />
       <input type="submit" value="Register!" />
       <input type="reset" />
     </form>
