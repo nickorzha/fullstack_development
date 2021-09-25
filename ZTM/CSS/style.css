@@ -1,6 +1,19 @@
+body {
+  background-image: url(../images/backgroundimage.jpg);
+  background-size: cover;
+}
+
 h2 {
-  color: red;
+  color: #d4766a;
+  border: 5px solid rgb(255, 180, 170);
+  text-align: center;
+  cursor: pointer;
 }
 p {
   color: pink;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
 }
