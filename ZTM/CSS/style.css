@@ -1,9 +1,13 @@
+* {
+  text-align: right;
+}
+
 body {
   background-image: url(../images/backgroundimage.jpg);
   background-size: cover;
 }
 
-h2 {
+h2 + p:hover {
   color: #d4766a;
   border: 5px solid rgb(255, 180, 170);
   text-align: center;
@@ -12,8 +16,28 @@ h2 {
 p {
   color: pink;
 }
+p {
+  color: green;
+}
 
 li {
+  color: white;
   list-style: none;
   display: inline-block;
+}
+
+.webtext:first-child {
+  border: 5px dashed green;
+}
+
+.active {
+  color: red;
+}
+
+#div1 {
+  background: rgba(0, 0, 255, 0.2);
+}
+
+#div2 {
+  background: rgba(255, 0, 0, 0.2);
 }
