@@ -1,0 +1,42 @@
+* {
+  text-align: right;
+}
+
+body {
+  background-image: url(../images/bg-image.avif);
+  background-size: cover;
+  color: white;
+}
+
+/* h2, p: select all h2 and p tags and apply the properties defined inside {} */
+/* h2 p: means that any p tag inside the h2 applies the properties defined inside {} */
+/* h2 > p: select if there is a p tag inside the h2 that is immediate child to h2 then only the prop applies */
+/* h2 + p: select the p tag if it is immediately below the h2 tag (not nested)*/
+
+h2 + p {
+  color: white;
+  text-align: center;
+  border: 5px solid red;
+  cursor: pointer;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+}
+
+.webtext {
+  border: 5px dashed green;
+}
+
+.active {
+  color: red;
+}
+
+#div1 {
+  background: rgba(0, 0, 255, 0.2);
+}
+
+#div2 {
+  background: rgba(255, 0, 0, 0.2);
+}
